@@ -1,0 +1,4 @@
+Pretty basic library for basic parsing of .plist files written in Qt4.
+
+
+This is highly experimental but works out for me, so I thought I'd share.
